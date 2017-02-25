@@ -1,0 +1,5 @@
+#! /bin/sh
+git submodule update --remote
+git add .
+git commit -m "update"
+git push origin master
