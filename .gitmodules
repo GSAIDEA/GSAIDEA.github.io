@@ -1,0 +1,3 @@
+[submodule "html/IDEA"]
+	path = html/IDEA
+	url = https://github.com/Jiwon-Park/IDEA.git
